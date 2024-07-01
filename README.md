@@ -1,5 +1,5 @@
 # Linux User Creation Bash Script
-This project is based on writing a bash script called `create_users.sh` that reads a **text file** containing the **usernames** and **group names** of the new employees where each is written in the following format: `user;groups`. This project is powered by [HNG Internship](https://hng.tech/internship) and [HNG Premium](https://hng.tech/premium).
+This project is based on writing a bash script called `create_users.sh` that reads a **text file** containing the **usernames** and **group names** of the new employees where each is written in the following format: `user;groups`. Powered by [HNG Internship](https://hng.tech/internship) and [HNG Premium](https://hng.tech/premium).
 
 The script performs the following functions:
 
