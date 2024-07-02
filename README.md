@@ -9,6 +9,6 @@ This project is based on writing a bash script called `create_users.sh` that rea
 5. Stores the generated passwords securely in `/var/secure/user_passwords.txt`.
 6. Ensures error handling for scenarios like existing users providing clear documentation and comments.
 
-Checkout the [create_users.sh](./create_user.sh) script here.
+Checkout the [create_users.sh](./create_users.sh) script here.
 
 _Powered by [HNG Internship](https://hng.tech/internship) and [HNG Premium](https://hng.tech/premium)._
